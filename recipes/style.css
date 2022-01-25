@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(88, 88, 199);
+  font-size: 30px;
+  text-align: justify;  
+}
+
+img{
+  width: 200px;
+  height: 200px;
+ 
+}
+h1, h2, h3, h4{
+  color: white;
+  font-size: 50px;
+   
+}
